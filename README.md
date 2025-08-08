@@ -6,7 +6,6 @@ Bu proje, gezegenlerin ve gök cisimlerinin konumlarını ve hareketlerini simü
 
 - Gezegenlerin ve uyduların konumlarını görselleştirme
 - Python sunucusu ile veri alışverişi
-- Zengin görsel içerik (gezegen, yıldız, uzay görselleri)
 - Flutter ile modern arayüz
 
 ## Kurulum
