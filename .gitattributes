@@ -1,2 +1,11 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Flutter projelerinde native platform klasörlerini hariç tut
+android/** linguist-vendored
+ios/** linguist-vendored
+macos/** linguist-vendored
+windows/** linguist-vendored
+linux/** linguist-vendored
+build/** linguist-vendored
+.dart_tool/** linguist-vendored
+
+# Dart dosyalarını sayıma dahil et
+*.dart linguist-detectable=true
